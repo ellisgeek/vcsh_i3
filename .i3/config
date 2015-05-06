@@ -206,9 +206,9 @@ exec 	--no-startup-id feh --bg-scale ~/Pictures/Wallpaper/wallhaven-114709.jpg
 exec 	--no-startup-id ~/.bin/startup
 exec	--no-startup-id owncloud
 exec	--no-startup-id dxreminders
-
+exec	--no-startup-id ~/.bin/keyring
 # reload .Xresources because it doesn't like base16 on initial load :/
 exec	--no-startup-id xrdb ~/.Xresources
 
 # load workspaces
-exec --no-startup-id ~/.bin/load_2:TERM.sh
+exec --no-startup-id ~/.i3/load_2:TERM.sh
