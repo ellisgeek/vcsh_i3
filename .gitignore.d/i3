@@ -1,0 +1,8 @@
+*
+!/.gitignore.d
+!/.gitignore.d/i3
+!/.i3
+!/.i3/bar.py
+!/.i3/config
+!/.i3/load_2:TERM.sh
+!/.i3/workspace_2:TERM.json
