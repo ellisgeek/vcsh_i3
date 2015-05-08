@@ -205,6 +205,7 @@ exec 	--no-startup-id syncthing-gtk
 exec 	--no-startup-id feh --bg-scale ~/Pictures/Wallpaper/wallhaven-114709.jpg
 exec 	--no-startup-id ~/.bin/startup
 exec	--no-startup-id owncloud
+exec    --no-startup-id nm-applet
 exec	--no-startup-id dxreminders
 
 # reload .Xresources because it doesn't like base16 on initial load :/
